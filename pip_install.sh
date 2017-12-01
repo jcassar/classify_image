@@ -1,0 +1,11 @@
+pip install tinydb
+pip install rollbar
+pip install reportlab
+pip install pollyreports
+pip install prettytable
+pip install imutils
+pip install configparser
+pip install matplotlib
+pip install exifread
+pip install Pillow
+pip install piexif
